@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,40 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.9"><vh>封面投影片</vh>
+<v t="leo.20180902120523.10"><vh>封面</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180902120523.11"><vh>組員</vh>
+<v t="leo.20180902120523.12"><vh>組員名單</vh></v>
+</v>
+<v t="leo.20200624155120.1"><vh>week1</vh>
+<v t="leo.20200624155120.2"><vh>WEEK1</vh></v>
+</v>
+<v t="leo.20200624155539.1"><vh>week2</vh>
+<v t="leo.20200624155539.2"><vh>WEEK2</vh></v>
+</v>
+<v t="leo.20200624155902.1"><vh>week3</vh>
+<v t="leo.20200624155902.2"><vh>WEEK3</vh></v>
+</v>
+<v t="leo.20200624155136.1"><vh>封面投影片</vh>
+<v t="leo.20200624155136.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,15 +57,16 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## s40723241網際內容管理
 
-### KMOLab
+### 葉承叡
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[倉儲](https://github.com/s40723241/cd2020)
+[cd2020bg1](https://s40723246.github.io/cd2020-bg1/content/index.html)
 
 
 </t>
@@ -69,14 +79,22 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># CD2020BG1
+##[40723246組長](https://s40723246.github.io/cd2020/content/index.html)
+###組員
+[40723201](https://s40723201.github.io/cd2020/content/index.html)
+[40723206](https://s40723206.github.io/cd2020/content/index.html)
+[40723213](https://s40723213.github.io/cd2020/content/index.html)
+[40723216](https://s40723216.github.io/cd2020/content/index.html)
+[40723223](https://s40723223.github.io/cd2020/content/index.html)
+[40723226](https://s40723246.github.io/cd2020/content/index.html)
+[40723229](https://s40723229.github.io/cd2020/content/index.html)
+[40723230](https://s40723230.github.io/cd2020/content/index.html)
+[40723241](https://s40723241.github.io/cd2020/content/index.html) 
+[40723242](https://s40723242.github.io/cd2020/content/index.html)
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -326,5 +344,80 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200624155120.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624155120.2">## WEEK1
+
+### 建立新的倉儲CD2020
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2cW0YUxHCFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200624155136.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624155136.2">## s40723241網際內容管理
+
+### 葉承叡
+
+&lt;small&gt;
+Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
+&lt;/small&gt;
+
+[倉儲](https://github.com/s40723241/cd2020)
+[cd2020bg1](https://s40723246.github.io/cd2020-bg1/content/index.html)
+
+
+</t>
+<t tx="leo.20200624155539.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624155539.2">## WEEK2
+
+### 第一組第一次線上開會
+
+####[meeting1](https://github.com/s40723241/cd2020/blob/master/downloads/meeting%20minutes/meeting%20first.pdf)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/062ZSwlIKT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200624155902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624155902.2">## ASSIGNMENT1
+
+### 任務分配
+
+####[我負責的任務](https://github.com/s40723241/cd2020/tree/master/downloads/Assignment1/week3%20translation)
+
+
+
+</t>
 </tnodes>
 </leo_file>
