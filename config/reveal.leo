@@ -484,9 +484,9 @@ Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 <t tx="leo.20200624162724.2">## WEEK6
 
 ### 進度報告  
-###下載OBS來錄製個人螢幕同時錄取作者頭像
+下載OBS來錄製個人螢幕同時錄取作者頭像
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VhN2lTAReCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="850" height="500" src="https://www.youtube.com/embed/VhN2lTAReCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
