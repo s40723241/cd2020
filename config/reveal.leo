@@ -30,8 +30,23 @@
 <v t="leo.20200624155539.1"><vh>week2</vh>
 <v t="leo.20200624155539.2"><vh>WEEK2</vh></v>
 </v>
-<v t="leo.20200624155902.1"><vh>week3</vh>
-<v t="leo.20200624155902.2"><vh>WEEK3</vh></v>
+<v t="leo.20200624155902.1"><vh>Assignment1</vh>
+<v t="leo.20200624155902.2"><vh>Assignment1</vh></v>
+</v>
+<v t="leo.20200624162247.1"><vh>week3</vh>
+<v t="leo.20200624162247.2"><vh>WEEK3</vh></v>
+</v>
+<v t="leo.20200624162555.1"><vh>week5</vh>
+<v t="leo.20200624162555.2"><vh>WEEK5</vh></v>
+</v>
+<v t="leo.20200624162724.1"><vh>week6</vh>
+<v t="leo.20200624162724.2"><vh>WEEK6</vh></v>
+</v>
+<v t="leo.20200624163031.1"><vh>meet2</vh>
+<v t="leo.20200624163031.2"><vh>meet2</vh></v>
+</v>
+<v t="leo.20200624162817.1"><vh>week7</vh>
+<v t="leo.20200624162817.2"><vh>WEEK7</vh></v>
 </v>
 <v t="leo.20200624155136.1"><vh>封面投影片</vh>
 <v t="leo.20200624155136.2"><vh>封面投影片內容</vh></v>
@@ -415,8 +430,98 @@ Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 
 ### 任務分配
 
-[我負責的任務](https://github.com/s40723241/cd2020/tree/master/downloads/Assignment1/week3%20translation)
+我負責的任務
+[點此](https://github.com/s40723241/cd2020/tree/master/downloads/Assignment1/week3%20translation)
 
+
+
+</t>
+<t tx="leo.20200624162247.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624162247.2">## WEEK3
+
+### 上傳各組員製作完成的PDF
+由成員執行任務並編譯整理製作PDF
+
+參考資料[CoppeliaSim User Manual1](https://www.coppeliarobotics.com/helpFiles/index.html)
+
+
+
+</t>
+<t tx="leo.20200624162555.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624162555.2">## WEEK5
+
+### 說明任務一所負責之內容
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LaynhZ9Mr5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200624162724.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624162724.2">## WEEK6
+
+### 進度報告  
+###下載OBS來錄製個人螢幕同時錄取作者頭像
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VhN2lTAReCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200624162817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624162817.2">## WEEK7
+
+### 四輪車
+
+
+&lt;iframe width="560" height="315" src="https://s40723241.github.io/cd2020/content/week6-9.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200624163031.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624163031.2">## meeting2
+
+### 第一組第二次開會  
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q0R_g1xw3dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
