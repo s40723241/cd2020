@@ -577,8 +577,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200624172335.2">## WEEK8
 
 ### 安裝三個模組
-
-file:///C:/Users/a0909/OneDrive/桌面/1112.JPG</t>
+&lt;iframe width="888" height="500" src="file:///C:/Users/a0909/OneDrive/桌面/1112.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20200624172956.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -592,8 +592,7 @@ file:///C:/Users/a0909/OneDrive/桌面/1112.JPG</t>
 
 ### 建立Google API+專案
 
-file:///C:/Users/a0909/OneDrive/桌面/1113.JPG
-</t>
+&lt;iframe width="560" height="315" src="file:///C:/Users/a0909/OneDrive/桌面/1113.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624173142.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -638,7 +637,8 @@ file:///C:/Users/a0909/OneDrive/桌面/1113.JPG
 
 ### IPV6伺服器連線設定
 
-設定好網路連線下的[host ip](https://github.com/mdecourse/cd2020/blob/master/downloads/w13_ipv6_assignment.txt)
+1.設定好網路連線下的[host ip](https://github.com/mdecourse/cd2020/blob/master/downloads/w13_ipv6_assignment.txt)
+
 2.設定網路的ipv6位置設定
 
 3.進入虛擬主機，指令輸入cd tmp&gt;cd cd2020pj1&gt;git pull &gt;cd docs&gt; cd cmsimde
