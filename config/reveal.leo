@@ -577,7 +577,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200624172335.2">## WEEK8
 
 ### 安裝三個模組
-&lt;iframe width="888" height="500" src="file:///C:/Users/a0909/OneDrive/桌面/1112.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://drive.google.com/file/d/1ltjeA_GqpdyU3koTz5Fatg-AMAmVStF8/preview" width="640" height="480"&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624172956.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -592,7 +592,7 @@ vertical: body pane on the botton</t>
 
 ### 建立Google API+專案
 
-&lt;iframe width="560" height="315" src="file:///C:/Users/a0909/OneDrive/桌面/1113.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://drive.google.com/file/d/1fpeDJ5Z4cHFte7pMdF_6Se3l8Zaww-61/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624173142.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
