@@ -48,8 +48,38 @@
 <v t="leo.20200624162817.1"><vh>week7</vh>
 <v t="leo.20200624162817.2"><vh>WEEK7</vh></v>
 </v>
-<v t="leo.20200624155136.1"><vh>封面投影片</vh>
-<v t="leo.20200624155136.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200624164458.1"><vh>week8</vh>
+<v t="leo.20200624164458.2"><vh>WEEK8</vh></v>
+</v>
+<v t="leo.20200624172335.1"><vh>week8</vh>
+<v t="leo.20200624172335.2"><vh>WEEK8</vh></v>
+</v>
+<v t="leo.20200624164703.1"><vh>week9</vh>
+<v t="leo.20200624164703.2"><vh>WEEK9</vh></v>
+</v>
+<v t="leo.20200624172956.1"><vh>week10</vh>
+<v t="leo.20200624172956.2"><vh>WEEK10</vh></v>
+</v>
+<v t="leo.20200624173142.1"><vh>week11</vh>
+<v t="leo.20200624173142.2"><vh>WEEK11</vh></v>
+</v>
+<v t="leo.20200624173258.1"><vh>week12</vh>
+<v t="leo.20200624173258.2"><vh>WEEK12</vh></v>
+</v>
+<v t="leo.20200624173435.1"><vh>week13</vh>
+<v t="leo.20200624173435.2"><vh>WEEK13</vh></v>
+</v>
+<v t="leo.20200624173453.1"><vh>week14</vh>
+<v t="leo.20200624173453.2"><vh>WEEK14</vh></v>
+</v>
+<v t="leo.20200624173455.1"><vh>week15</vh>
+<v t="leo.20200624173455.2"><vh>WEEK15</vh></v>
+</v>
+<v t="leo.20200624173459.1"><vh>week16</vh>
+<v t="leo.20200624173459.2"><vh>WEEK16</vh></v>
+</v>
+<v t="leo.20200624174608.1"><vh>week17</vh>
+<v t="leo.20200624174608.2"><vh>WEEK17</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -377,28 +407,6 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200624155136.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200624155136.2">## s40723241網際內容管理
-
-### 葉承叡
-
-&lt;small&gt;
-Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
-&lt;/small&gt;
-
-[倉儲](https://github.com/s40723241/cd2020)
-[cd2020bg1](https://s40723246.github.io/cd2020-bg1/content/index.html)
-
-
-</t>
 <t tx="leo.20200624155539.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -486,7 +494,7 @@ Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 ### 進度報告  
 下載OBS來錄製個人螢幕同時錄取作者頭像
 
-&lt;iframe width="850" height="500" src="https://www.youtube.com/embed/VhN2lTAReCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VhN2lTAReCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -504,7 +512,7 @@ Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 ### 四輪車
 
 
-&lt;iframe width="560" height="315" src="https://s40723241.github.io/cd2020/content/week6-9.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="888" height="500" src="https://s40723241.github.io/cd2020/content/week6-9.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20200624163031.1">&lt;section data-markdown&gt;
@@ -522,6 +530,207 @@ Created by [葉承叡](https://s40723241.github.io/cd2020/content/index.html)
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q0R_g1xw3dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200624164458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624164458.2">## WEEK8
+
+### 利用Meet來錄製開會內容
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1pndKIN0FO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200624164703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624164703.2">## WEEK9
+
+### 期中考周
+
+
+</t>
+<t tx="leo.20200624172335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624172335.2">## WEEK8
+
+### 安裝三個模組
+
+file:///C:/Users/a0909/OneDrive/桌面/1112.JPG</t>
+<t tx="leo.20200624172956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624172956.2">## WEEK10
+
+### 建立Google API+專案
+
+file:///C:/Users/a0909/OneDrive/桌面/1113.JPG
+</t>
+<t tx="leo.20200624173142.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173142.2">## WEEK11
+
+### 期中考周
+
+&lt;iframe width="888" height="500" src="https://s40723241.github.io/cd2020/content/week10-14.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200624173258.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173258.2">## WEEK12
+
+### Vrep虛擬主機板
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3oH2FUPeWy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624173435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173435.2">## WEEK13
+
+### IPV6伺服器連線設定
+
+設定好網路連線下的[host ip](https://github.com/mdecourse/cd2020/blob/master/downloads/w13_ipv6_assignment.txt)
+2.設定網路的ipv6位置設定
+
+3.進入虛擬主機，指令輸入cd tmp&gt;cd cd2020pj1&gt;git pull &gt;cd docs&gt; cd cmsimde
+
+4.輸入vi wsgi.py  更改host
+
+5.設定好putty
+
+6.按save  open後，在putty頁面分別輸入兩次密碼kmol2020
+
+7.開啟Xming，接著輸入xterm&amp;
+
+8.在開啟的視窗中輸入cd tmp&gt;cd 2020pj1&gt;cd docs&gt;cd cmsimde&gt;python3 wsgi.py
+
+用google輸入網址https://[2001:288:6004:17:2020:7241]:17443  (必須要用自己的ip)
+
+</t>
+<t tx="leo.20200624173453.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173453.2">## WEEK14
+
+### 第一組第五次開會
+
+1.講解ipv6連線設定及ttt檔更改的新路徑
+
+2.虛擬主機及ubnutu bug解決方式
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aLGkE-jL7Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624173455.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173455.2">## WEEK15
+
+### 上周對於遠端連線之網路問題
+
+debug的解決方式及圖片
+
+遠端連線ipv6及ipv4的設定流程
+
+
+</t>
+<t tx="leo.20200624173459.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624173459.2">## WEEK16
+
+### 使用IPV6來讓個人網站對外連線設定
+
+1.開啟ubuntu
+
+2.git clone 自己倉儲後，下git submodule init .和git submodule update抓回cmsimde模組
+
+3.ifconfig複製ip並且開啟vi wsgi.py 將ip貼上
+
+4.將proxy關閉、設定網路中的IPV6位置，並且設定好ubnutu中的IPV6設定
+
+5.進入cmsimde後開啟python3 wsgi.py
+
+6.輸入網址https://[2001:288:6004:17:2020:2:0:7241]:19443 (自己的ip)
+
+
+</t>
+<t tx="leo.20200624174608.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624174608.2">## WEEK17
+
+### 期末報告
 
 
 </t>
